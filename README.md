@@ -12,7 +12,7 @@ Student @ Shanghai Jiao Tong University
 <img
   src="https://github-readme-stats.vercel.app/api?username=Yiyuan-Dong&count_private=true&theme=vue"
   title="Yiyuan-Dong&#039;s GitHub Stats"
-  align="middle"
-  width="80%"
+  align="left"
+  width="65%"
 />
 </a>
