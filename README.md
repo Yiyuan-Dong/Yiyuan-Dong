@@ -1,7 +1,8 @@
 ## 💡 About
 
-Student @ Shanghai Jiao Tong University
+Software engineer @ Optiver.
 
 - ⚒️ C / C++ / Python
-- 🔭 Working on system software
+- 🔭 Earn my master degree from SJTU through doing research on system software
+- ⌨️ Working on developing trading system
 - :video_game: Like video games
